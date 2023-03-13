@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Covid19ChartSignalR.API.props" />
+</Project>

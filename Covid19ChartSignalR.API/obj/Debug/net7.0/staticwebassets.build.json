@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hcRbCgKey3Vw//2YbLWgDfI2kPdKw0qqtDpQk28jglM=",
+  "Source": "Covid19ChartSignalR.API",
+  "BasePath": "_content/Covid19ChartSignalR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
