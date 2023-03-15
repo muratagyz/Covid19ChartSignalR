@@ -1,0 +1,10 @@
+<router-outlet></router-outlet>
+<google-chart
+  [type]="charType"
+  [data]="covidService.covidChartList"
+  [width]="1000"
+  [height]="700"
+  [columns]="columnNames"
+  [options]="options"
+>
+</google-chart>
